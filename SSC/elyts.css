@@ -1,0 +1,274 @@
+.menu{
+
+
+
+
+padding: 10px 20px;
+position: fixed;
+
+width: 200px;
+height: 1000%;
+top: 000;
+
+
+left: 0;
+
+
+
+
+color:red;
+
+
+	background-color: #45015d;
+}
+.menu a{color: inherit;
+	display:block;
+font-weight:  bold;
+
+width: 100%;
+box-sizing:border-box;
+padding: 8px 17px;
+text-decoration: none;}
+
+
+
+.main{
+margin-left: 360px;
+
+margin-top: 80px;
+margin-right: 40px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+h2{
+
+
+font-weight:normal;
+
+font-size: 48px;
+	color: red;
+}
+hr{border: 5px solid #45015d;
+border-radius: 10000000px;	width: 100%;}
+
+
+
+.images img {
+width: 45%;
+margin: 5PX;
+border-radius: 10;
+opacity:70%
+
+}.images img:hover{opacity: 100%}
+.member{display:inline-block;
+
+padding: 8px 8px
+	;
+width:30%
+}
+.member img{
+
+
+
+filter: grayscale(70%);
+		border-radius: 10px;
+	width: 100%;
+}
+.description{background-color: #f1f1f1;
+padding: 12px ;border-radius: 5px
+
+
+}
+.tarif{width: 40%;
+padding: 0 8px;
+display:inline-block;
+text-align: center;
+}
+
+.tarif ul{
+	color:black;
+	background-color: #f1f1f1;
+	padding: 0;
+
+margin: 0;
+
+
+list-style: none;
+}
+.tarif .coolname{
+background-color: rgb(255,0,0);
+font-size: 24px;
+padding: 32px 0;
+color:  white;
+}
+
+button{border-radius:10px;
+color: #45015d;
+background-color: white;
+padding: 15px 20px;
+font-size: 16px;
+border: none;
+outline: none;
+
+}
+.tarif li{
+
+border-bottom-width:1px;
+border-bottom-color: #f1f1f1;
+border-bottom-style: 	solid;
+border-radius: 10px ;
+padding: 16px 0;
+}
+.tarives{margin-top: 10px;
+}
+input {
+	border: 1px solid #cccccccc;
+	width:  100%;
+	padding:  8px;
+font-size: 16px
+
+}
+
+
+
+
+#contact button{
+width: 100%;
+background-color: red;
+color: white;
+margin-top: 13px;
+font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
